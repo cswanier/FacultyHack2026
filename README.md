@@ -1,7 +1,8 @@
-<a href="https://github.com/cswanier/FacultyHack">
-  <img src="https://github.com/cswanier/FacultyHack/blob/main/Outlook-bmuktnws.jpg?raw=true" alt="Outlook screenshot" width="200"/>
+// <a href="https://github.com/cswanier/FacultyHack">
+   <img src="https://github.com/cswanier/FacultyHack/blob/main/Outlook-bmuktnws.jpg?raw=true" alt="Outlook screenshot" width="200"/>//
 </a>
-
+//
+<img src="file path">
 ![Cheryl.Swanier(./Image/CherylSwanierPhoto.jpeg
 
 Faculty Information
