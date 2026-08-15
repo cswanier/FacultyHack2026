@@ -39,7 +39,10 @@ Anas AlSobeh
 Utah Valley University 
 ana.alsobeh@uvu.edu 
  
-Science Gateway Resources & Technology Notes
+<b>Science Gateway Resources & Technology Notes</b>
+
+
+
 The course goal is to integrate Science Gateway resources, including Jetstream2 cloud computing infrastructure and AI-enabled tools, into an introductory programming course to provide students with accessible, authentic, and scalable computing experiences that strengthen computational thinking, programming skills, and AI literacy.
 Tools Used
 Jetstream2 https://jetstream-cloud.org/
