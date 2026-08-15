@@ -1,8 +1,8 @@
 <b> Faculty Information </b>
 
 
-<p>Cheryl Swanier 
- Voorhees University
+<p>Cheryl Swanier <br>
+ Voorhees University <br>
  Science, Technology, Health, and Human Services </p>
 
 
