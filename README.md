@@ -8,8 +8,13 @@ Faculty Information
 
 
 Name: Cheryl Swanier 
+
 Institution: Voorhees University 
+
 Department/Discipline: Science, Technology, Health, and Human Services
+
+
+
 Brief Bio / CV
 Dr. Cheryl A. Swanier is a computer scientist, educator, researcher, and higher education leader with more than two decades of experience advancing academic excellence, faculty development, and student success. She most recently served as Dean of the School of Science, Technology, Health, and Human Services at Voorhees University, where she also holds the rank of Full Professor of Computer Science.
 Prior to her appointment as dean, Dr. Swanier served as a Senior Teaching Professor in the Manning College of Information and Computer Sciences at the University of Massachusetts Amherst, where she taught undergraduate computer science courses and contributed to innovative approaches in computing education. Earlier, she served as Chair of the Department of Mathematics and Computer Science at Claflin University, where she held the prestigious Henry N. and Alice Carson Tisdale Endowed Professorship. During her tenure, she led the successful ABET accreditation of the Computer Science program, expanded academic offerings, and championed initiatives that strengthened student achievement and faculty excellence.
