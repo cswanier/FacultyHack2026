@@ -1,15 +1,17 @@
-Faculty Information
+<b>Faculty Informationb</b>
 
 
-Name: Cheryl Swanier 
-
-Institution: Voorhees University 
-
-Department/Discipline: Science, Technology, Health, and Human Services
+Cheryl Swanier 
 
 
+Voorhees University 
 
-Brief Bio
+
+Science, Technology, Health, and Human Services
+
+
+
+<b>Brief Bio</b>
 
 
 Dr. Cheryl A. Swanier is a computer scientist, educator, researcher, and higher education leader with more than two decades of experience advancing academic excellence, faculty development, and student success. She most recently served as Dean of the School of Science, Technology, Health, and Human Services at Voorhees University, where she also holds the rank of Full Professor of Computer Science.
