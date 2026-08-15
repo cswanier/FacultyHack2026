@@ -26,11 +26,14 @@ Dr. Swanier has extensive experience in faculty leadership, accreditation, strat
 
 As an academic leader, Dr. Swanier is committed to cultivating inclusive learning environments, advancing faculty excellence, leveraging emerging technologies to improve teaching and learning, and preparing the next generation of innovative, ethical, and socially responsible computing professionals.
 
+
+
 <a href="https://github.com/cswanier/FacultyHack">
   <img src="./Image/CherylSwanierPhoto.jpeg" width="200"/>
 </a>
 
-
+<br> </br> 
+<p></p>
 
 <b>Mentorship & Support</b>
 <br> </br> 
