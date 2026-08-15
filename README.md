@@ -53,7 +53,7 @@ The course goal is to integrate Science Gateway resources, including Jetstream2 
  
 Jetstream2 is an NSF-supported, user-friendly cloud computing environment that provides interactive virtual machines, data analysis capabilities, and access to AI resources. It is designed specifically to lower barriers for users who are new to advanced computing and is particularly focused on workforce development at small colleges, HBCUs, and minority-serving institutions. <br>
 
-<b>•	Course Use:<b> <br> 
+<b>•	Course Use:</b> <br> 
 
 
 Students will use Jetstream2 to create cloud-based programming environments, execute and debug JAVA programs, work with datasets, and complete computational projects without requiring powerful personal computers. <br>
