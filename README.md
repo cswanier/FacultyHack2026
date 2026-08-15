@@ -31,13 +31,10 @@ As an academic leader, Dr. Swanier is committed to cultivating inclusive learnin
 <a href="https://github.com/cswanier/FacultyHack">
   <img src="./Image/CherylSwanierPhoto.jpeg" width="200"/>
 </a>
-
 <br> </br> 
 
 <p><b>Mentorship & Support</b></p>p>
 <br> </br> 
-<p></p>
-
 Assigned Technical Mentor(s):  Anas AlSobeh, Utah Valley University ana.alsobeh@uvu.edu 
  
 Science Gateway Resources & Technology Notes
