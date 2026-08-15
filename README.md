@@ -3,9 +3,7 @@
 
 Cheryl Swanier 
 
-
 Voorhees University 
-
 
 Science, Technology, Health, and Human Services
 
