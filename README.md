@@ -1,9 +1,3 @@
-<a href="https://github.com/cswanier/FacultyHack">
-  <img src="./Image/CherylSwanierPhoto.jpeg" width="200"/>
-</a>
-
-![Cheryl.Swanier(./Image/CherylSwanierPhoto.jpeg
-
 Faculty Information
 
 
@@ -33,8 +27,10 @@ Dr. Swanier has extensive experience in faculty leadership, accreditation, strat
 As an academic leader, Dr. Swanier is committed to cultivating inclusive learning environments, advancing faculty excellence, leveraging emerging technologies to improve teaching and learning, and preparing the next generation of innovative, ethical, and socially responsible computing professionals.
 
 Faculty Headshot
-Upload headshot to the repository's /images folder.
-![Je'aime H. Powell](./images/headshot.png)
+<a href="https://github.com/cswanier/FacultyHack">
+  <img src="./Image/CherylSwanierPhoto.jpeg" width="200"/>
+</a>
+
  
 Mentorship & Support
 Assigned Technical Mentor(s):  Anas AlSobeh, Utah Valley University ana.alsobeh@uvu.edu 
