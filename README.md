@@ -74,8 +74,8 @@ The course will also leverage Jetstream2's institutionally operated LLM inferenc
 <b>•	Jetstream2. (n.d.).</b> Jetstream2: Cloud computing for research and education. https://jetstream-cloud.org/ <br>
 
 •	Jetstream2 LLM Inference Service https://support.access-ci.org/tools/science-gateways?utm_source=chatgpt.com 
-<ul><b>•	Description:</b> Jetstream2 provides an institutionally operated large-language-model inference service that students can use for programming assistance, debugging, brainstorming, and developing LLM-powered applications. The service currently includes models such as Llama 4 and gpt-oss-120b and processes data within the Indiana University environment rather than sending prompts to commercial AI providers.etstream2 
-
+<ul><b>•	Description:</b> Jetstream2 provides an institutionally operated large-language-model inference service that students can use for programming assistance, debugging, brainstorming, and developing LLM-powered applications. The service currently includes models such as Llama 4 and gpt-oss-120b and processes data within the Indiana University environment rather than sending prompts to commercial AI providers.etstream2 <br>
+<ul>
 •	Course Use: Students will use the service as an AI programming partner to generate and explain code, troubleshoot errors, compare programming approaches, and critically evaluate AI-generated solutions. </ul>
 
 <b>Science Gateways,bb> / Gateway Resources – ACCESS Ecosystem https://www.tacc.utexas.edu/ <br>
