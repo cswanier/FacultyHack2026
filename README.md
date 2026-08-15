@@ -65,18 +65,18 @@ Students will use Jetstream2 to learn to critically evaluate AI-generated code f
 The course will also leverage Jetstream2's institutionally operated LLM inference service as an AI programming assistant for code generation, explanation, debugging, and problem-solving.</ul>
 
 <b>ACCESS</b> https://access-ci.org/ <br>
-
+<ul>
 <b>•	Description:</b> ACCESS provides researchers and educators with access to advanced computing, storage, visualization, and other cyberinfrastructure resources contributed by organizations across the United States.
 <b>•	Course Use: </b> ACCESS resources can introduce students to nationally available research cyberinfrastructure and provide a pathway for moving course projects beyond local computing environments. <br>
-<b>•	ACCESS. (n.d.).</b> Science Gateways. ACCESS-CI. https://support.access-ci.org/tools/science-gateways <br>
+<b>•	ACCESS. (n.d.).</b> Science Gateways. ACCESS-CI. https://support.access-ci.org/tools/science-gateways </ul> <br>
 
 
 <b>•	Jetstream2. (n.d.).</b> Jetstream2: Cloud computing for research and education. https://jetstream-cloud.org/ <br>
 
 •	Jetstream2 LLM Inference Service https://support.access-ci.org/tools/science-gateways?utm_source=chatgpt.com 
-•	Description: Jetstream2 provides an institutionally operated large-language-model inference service that students can use for programming assistance, debugging, brainstorming, and developing LLM-powered applications. The service currently includes models such as Llama 4 and gpt-oss-120b and processes data within the Indiana University environment rather than sending prompts to commercial AI providers.etstream2 
+<ul><b>•	Description:</b> Jetstream2 provides an institutionally operated large-language-model inference service that students can use for programming assistance, debugging, brainstorming, and developing LLM-powered applications. The service currently includes models such as Llama 4 and gpt-oss-120b and processes data within the Indiana University environment rather than sending prompts to commercial AI providers.etstream2 
 
-•	Course Use: Students will use the service as an AI programming partner to generate and explain code, troubleshoot errors, compare programming approaches, and critically evaluate AI-generated solutions.
+•	Course Use: Students will use the service as an AI programming partner to generate and explain code, troubleshoot errors, compare programming approaches, and critically evaluate AI-generated solutions. </ul>
 
 <b>Science Gateways,bb> / Gateway Resources – ACCESS Ecosystem https://www.tacc.utexas.edu/ <br>
 
@@ -85,11 +85,11 @@ The course will also leverage Jetstream2's institutionally operated LLM inferenc
 
 
 <b>Implementation Notes<b> <br>
-
-•	Session 1: Reviewed the existing course structure and identified learning objectives, assignments, and final project that could benefit from AI and Science Gateway resources. Learned foundational computer programming concepts. Session 2: Began identifying places where students could move from local computing to shared or remote research infrastructure. Introduced cloud computing via Jetstream2 and responsible AI. <br>
-•	Session 3: Integrated cloud computing <b>
-•	Session 4: [Add notes from the next FacultyHack session.] <br>
-•	Final Implementation: [Document the completed module, assignments, gateway/HPC workflow, testing results, and changes made to the syllabus.] <br>
+<ul>
+<b>•	Session 1:</b> Reviewed the existing course structure and identified learning objectives, assignments, and final project that could benefit from AI and Science Gateway resources. Learned foundational computer programming concepts. Session 2: Began identifying places where students could move from local computing to shared or remote research infrastructure. Introduced cloud computing via Jetstream2 and responsible AI. <br>
+<b>•	Session 3:</b> Integrated cloud computing <br>
+<b>•	Session 4:</b> [Add notes from the next FacultyHack session.] <br>
+<b>•	Final Implementation:</b> [Document the completed module, assignments, gateway/HPC workflow, testing results, and changes made to the syllabus.] </ul><br>
  
 <b>Deliverables Checklist</b>
 
