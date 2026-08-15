@@ -1,4 +1,4 @@
-Image/CherylSwanierPhoto.jpeg
+![Cheryl.Swanier(./Image/CherylSwanierPhoto.jpeg
 Faculty Information
 Name: Cheryl Swanier 
 Institution: Voorhees University 
