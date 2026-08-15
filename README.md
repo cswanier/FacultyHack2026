@@ -35,7 +35,7 @@ As an academic leader, Dr. Swanier is committed to cultivating inclusive learnin
 <br> </br> 
 <p></p>
 
-<b>Mentorship & Support</b>
+<p><b>Mentorship & Support</b></p>p>
 <br> </br> 
 <p></p>
 
