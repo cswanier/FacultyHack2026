@@ -84,7 +84,7 @@ The course will also leverage Jetstream2's institutionally operated LLM inferenc
 •	Course Use: Students will explore selected gateway resources to experience how professional and research communities use cloud computing, data, software, and computational workflows to solve real-world problems.
 
 
-<b>Implementation Notes<b> <br>
+<b>Implementation Notes</b> <br>
 <ul>
 <b>•	Session 1:</b> Reviewed the existing course structure and identified learning objectives, assignments, and final project that could benefit from AI and Science Gateway resources. Learned foundational computer programming concepts. Session 2: Began identifying places where students could move from local computing to shared or remote research infrastructure. Introduced cloud computing via Jetstream2 and responsible AI. <br>
 <b>•	Session 3:</b> Integrated cloud computing <br>
