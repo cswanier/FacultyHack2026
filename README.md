@@ -32,9 +32,9 @@ As an academic leader, Dr. Swanier is committed to cultivating inclusive learnin
 
 
 
-<b> Mentorship & Support </b>
+<b>Mentorship & Support</b>
 <br> </br> 
-
+<p></p>
 
 
 Assigned Technical Mentor(s):  Anas AlSobeh, Utah Valley University ana.alsobeh@uvu.edu 
