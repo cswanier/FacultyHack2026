@@ -19,9 +19,17 @@ Brief Bio / CV
 
 
 Dr. Cheryl A. Swanier is a computer scientist, educator, researcher, and higher education leader with more than two decades of experience advancing academic excellence, faculty development, and student success. She most recently served as Dean of the School of Science, Technology, Health, and Human Services at Voorhees University, where she also holds the rank of Full Professor of Computer Science.
+
+
 Prior to her appointment as dean, Dr. Swanier served as a Senior Teaching Professor in the Manning College of Information and Computer Sciences at the University of Massachusetts Amherst, where she taught undergraduate computer science courses and contributed to innovative approaches in computing education. Earlier, she served as Chair of the Department of Mathematics and Computer Science at Claflin University, where she held the prestigious Henry N. and Alice Carson Tisdale Endowed Professorship. During her tenure, she led the successful ABET accreditation of the Computer Science program, expanded academic offerings, and championed initiatives that strengthened student achievement and faculty excellence.
+
+
 Dr. Swanier's interdisciplinary expertise spans artificial intelligence, human-computer interaction, computer science education, data science, and cybersecurity. Throughout her career, she has taught a broad range of undergraduate and graduate courses while leading curriculum innovation, accreditation, strategic planning, assessment, and academic program development. Her professional experience also includes serving as a software engineer in industry, a secondary mathematics educator, and a Visiting Research Scientist at Google, where she collaborated on initiatives to broaden participation in computing at Historically Black Colleges and Universities.
+
+
 Dr. Swanier has extensive experience in faculty leadership, accreditation, strategic enrollment initiatives, grant development, and interdisciplinary collaboration. Her scholarship focuses on human-computer interaction, computing education, artificial intelligence, and broadening participation in STEM, with numerous presentations and publications at national and international conferences.
+
+
 As an academic leader, Dr. Swanier is committed to cultivating inclusive learning environments, advancing faculty excellence, leveraging emerging technologies to improve teaching and learning, and preparing the next generation of innovative, ethical, and socially responsible computing professionals.
 
 Faculty Headshot
