@@ -1,9 +1,9 @@
 <b> Faculty Information </b>
 
 
-<p>Cheryl Swanier </p> 
-<p>Voorhees University </p>
-<p>Science, Technology, Health, and Human Services </p>
+<p>Cheryl Swanier <br>
+ Voorhees University <br>
+ Science, Technology, Health, and Human Services </p>
 
 
 
@@ -36,11 +36,11 @@ As an academic leader, Dr. Swanier is committed to cultivating inclusive learnin
 
 Assigned Technical Mentor(s):  
 
-<p>Anas AlSobeh</p>p>
+<p>Anas AlSobeh
 
 Utah Valley University 
 
-ana.alsobeh@uvu.edu 
+ana.alsobeh@uvu.edu </p>
  
 <b>Science Gateway Resources & Technology Notes</b>
 
