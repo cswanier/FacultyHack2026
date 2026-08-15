@@ -5,6 +5,8 @@
 ![Cheryl.Swanier(./Image/CherylSwanierPhoto.jpeg
 
 Faculty Information
+
+
 Name: Cheryl Swanier 
 Institution: Voorhees University 
 Department/Discipline: Science, Technology, Health, and Human Services
