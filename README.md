@@ -94,7 +94,7 @@ The course will also leverage Jetstream2's institutionally operated LLM inferenc
 <b>Deliverables Checklist</b>
 
 <p>
-•	 Original Syllabus: original_syllabus.pdf
+•	 Original Syllabus: [original_syllabus.pdf](https://github.com/cswanier/FacultyHack2026/blob/main/CMP%20224%20VU%20Syllabus%202026.pdf)
 
 •	 Revised Syllabus: revised_syllabus.pdf
 
