@@ -9,7 +9,7 @@ Department/Discipline: Science, Technology, Health, and Human Services
 
 
 
-Brief Bio / CV
+Brief Bio
 
 
 Dr. Cheryl A. Swanier is a computer scientist, educator, researcher, and higher education leader with more than two decades of experience advancing academic excellence, faculty development, and student success. She most recently served as Dean of the School of Science, Technology, Health, and Human Services at Voorhees University, where she also holds the rank of Full Professor of Computer Science.
@@ -30,7 +30,8 @@ As an academic leader, Dr. Swanier is committed to cultivating inclusive learnin
   <img src="./Image/CherylSwanierPhoto.jpeg" width="200"/>
 </a>
 
-Mentorship & Support
+
+<b> Mentorship ßs& Support </b>
 Assigned Technical Mentor(s):  Anas AlSobeh, Utah Valley University ana.alsobeh@uvu.edu 
  
 Science Gateway Resources & Technology Notes
