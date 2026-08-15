@@ -86,11 +86,15 @@ Implementation Notes
 •	Virtual Hackathon: August 3 – 14, 2026
 •	In-Person Conference: Gateways 2026 | September 23–25, 2026 | Washington, D.C.
  
-Event Citation
+<b>Event Citation </b>
+
+
 This project was developed as part of SGX3's 5th Annual FacultyHack@Gateways 2026. FacultyHack is a hands-on program designed to empower educators across disciplines to integrate High-Performance Computing (HPC) and Artificial Intelligence (AI) tools directly into their curricula.
 
 
+
 FacultyHack provides participants with technical mentorship, hands-on experience with advanced cyberinfrastructure, and an opportunity to transform what they learn into practical instructional materials that can be used with their students. The program emphasizes reducing barriers to HPC, AI, Science Gateways, and national research cyberinfrastructure while creating sustainable pathways for these technologies to reach new institutions, faculty, and students.
+
 
 For more information, event archives, and resources, please visit the official event site:
 FacultyHack@Gateways 2026 Official Site
