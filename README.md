@@ -1,9 +1,9 @@
-<b>Faculty Information</b>
+<b> Faculty Information </b>
 
 
-Cheryl Swanier 
-Voorhees University 
-Science, Technology, Health, and Human Services
+<p>Cheryl Swanier </p> 
+<p>Voorhees University </p>
+<p>Science, Technology, Health, and Human Services </p>
 
 
 
@@ -36,7 +36,7 @@ As an academic leader, Dr. Swanier is committed to cultivating inclusive learnin
 
 Assigned Technical Mentor(s):  
 
-Anas AlSobeh
+<p>Anas AlSobeh</p>p>
 
 Utah Valley University 
 
@@ -76,13 +76,14 @@ Implementation Notes
  
 <b>Deliverables Checklist</b>
 
+<p>
 •	 Original Syllabus: original_syllabus.pdf
 
 •	 Revised Syllabus: revised_syllabus.pdf
 
 •	 Gateways 2026 Poster: poster_final.pdf
 
-•	 SGX3 Blog Post Draft: blog_post.md
+•	 SGX3 Blog Post Draft: blog_post.md. </p>
  
 <b>Event Details</b>
 •	Virtual Hackathon: August 3 – 14, 2026
