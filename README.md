@@ -6,7 +6,6 @@
   <img src="./Image/CherylSwanierPhoto.jpeg" width="200"/>
 </a>
 
-<img src="file path">
 ![Cheryl.Swanier(./Image/CherylSwanierPhoto.jpeg
 
 Faculty Information
