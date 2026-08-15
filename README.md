@@ -36,12 +36,11 @@ As an academic leader, Dr. Swanier is committed to cultivating inclusive learnin
 
 Assigned Technical Mentor(s):  
 
-<p>Anas AlSobeh
-Utah Valley University 
+<p>Anas AlSobeh <br>
+Utah Valley University <br>
 ana.alsobeh@uvu.edu </p>
  
 <b>Science Gateway Resources & Technology Notes</b>
-
 
 
 The course goal is to integrate Science Gateway resources, including Jetstream2 cloud computing infrastructure and AI-enabled tools, into an introductory programming course to provide students with accessible, authentic, and scalable computing experiences that strengthen computational thinking, programming skills, and AI literacy.
