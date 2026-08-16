@@ -1,3 +1,30 @@
+<b> FacultyHack@Gateways 2026 Curriculum Project /<b> <br>
+
+<b>Project Overview </b> <br>
+
+
+This curriculum project focuses on integrating Jetstream2, Artificial Intelligence (AI), and Science Gateway resources into an Introduction to Programming course to give students hands-on experience with modern research computing environments. <br>
+
+
+<b> Course: CMP 224 Intro to Programming </b> <br>
+
+
+
+The CMP 224 Introduction to Programming course is an introductory programming course designed for beginning computer science students, including students with limited or no prior programming experience. The course serves as a foundational course in the computing curriculum, introducing computational thinking, problem-solving, programming concepts, and emerging technologies that students will use in subsequent computer science courses. <br>
+
+
+The project is motivated by the need to provide students with authentic exposure to high-performance/cloud computing, artificial intelligence, and modern development environments early in their academic careers. Integrating Jetstream2 and Science Gateway resources with AI-supported programming gives students access to scalable computing resources while reducing the technical barriers associated with configuring local environments. The project addresses the gap between traditional introductory programming instruction, and the increasingly AI- and cloud-driven computing environments students will encounter in advanced coursework and the workforce. <br>
+
+
+The primary goal is to move students beyond working only on their local computers by introducing them to scalable computing, reproducible scientific workflows, AI-enabled research tools, and shared cyberinfrastructure. The revised curriculum will emphasize practical access to HPC and AI resources through user-friendly interfaces and Science Gateways, allowing students to focus on solving problems and analyzing data without requiring them to first become HPC system administrators. <br>
+
+
+The project will also explore how tools such as Jetstream2 and Science Gateways can be incorporated into assignments and course projects in ways that are accessible to students with different levels of computing experience.  <br>
+
+
+
+
+
 <b> Faculty Information </b>
 
 
