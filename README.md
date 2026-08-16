@@ -4,7 +4,7 @@
 
 This curriculum project focuses on integrating <b>Jetstream2, Artificial Intelligence (AI), and Science Gateway</b> resources into an Introduction to Programming course to give students hands-on experience with modern research computing environments. <br>
 
-<h2><b> Course: CMP 224 Intro to Programming </b></h2> <br>
+<h2><b> Course: CMP 224 Intro to Programming </b></h2>
 
 The CMP 224 Introduction to Programming course is an introductory programming course designed for beginning computer science students, including students with limited or no prior programming experience. The course serves as a foundational course in the computing curriculum, introducing computational thinking, problem-solving, programming concepts, and emerging technologies that students will use in subsequent computer science courses. <br>
 
