@@ -1,6 +1,6 @@
-<h1><b> FacultyHack@Gateways 2026 Curriculum Project </b></h1> <br>
+<h1><b> FacultyHack@Gateways 2026 Curriculum Project </b></h1> 
 
-<h2><b>Project Overview </b></h2> <br>
+<h2><b>Project Overview </b></h2>
 
 This curriculum project focuses on integrating <b>Jetstream2, Artificial Intelligence (AI), and Science Gateway</b> resources into an Introduction to Programming course to give students hands-on experience with modern research computing environments. <br>
 
@@ -14,7 +14,7 @@ The primary goal is to move students beyond working only on their local computer
 
 The project will also explore how tools such as Jetstream2 and Science Gateways can be incorporated into assignments and course projects in ways that are accessible to students with different levels of computing experience.  <br>
 
-<h2><b> Faculty Information </b></h2> <br>
+<h2><b> Faculty Information </b></h2> 
 <p>Cheryl Swanier <br>
  Voorhees University <br>
  Science, Technology, Health, and Human Services </p>
@@ -42,13 +42,13 @@ As an academic leader, Dr. Swanier is committed to cultivating inclusive learnin
 <h2><b>Mentorship & Support</b></h2>
 
 
-<b>Assigned Technical Mentor(s):  </b> <br>
+<b>Assigned Technical Mentor(s):  </b> 
 
 <p>Anas AlSobeh <br>
 Utah Valley University <br>
 ana.alsobeh@uvu.edu </p>
  
-<h2><b>Science Gateway Resources & Technology Notes</b> </h2> <br>
+<h2><b>Science Gateway Resources & Technology Notes</b> </h2> 
 
 
 The course goal is to integrate Science Gateway resources, including Jetstream2 cloud computing infrastructure and AI-enabled tools, into an introductory programming course to provide students with accessible, authentic, and scalable computing experiences that strengthen computational thinking, programming skills, and AI literacy.
