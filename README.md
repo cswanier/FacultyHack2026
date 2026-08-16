@@ -90,14 +90,19 @@ Students will use Jetstream2 to create cloud-based programming environments, exe
 <b>•	Session 1:</b> 
 Reviewed the existing introductory programming course structure, learning objectives, assignments, and projects to identify opportunities for integrating AI, cloud computing, Jetstream2, and Science Gateway resources. Identified the transition points where students could move from traditional local programming environments to shared cloud-based computing infrastructure. Particular attention was given to maintaining foundational Java programming skills while introducing students to emerging AI and cloud technologies.
 <br>
-<b></b>•	Session 2:</b> 
+<br>
+<b>•	Session 2:</b> 
 Explored potential workflows using Jetstream2, ACCESS, Science Gateway resources, Jupyter/JupyterHub, and AI-supported programming tools. Focused on identifying resources that would be accessible to beginning programmers and would minimize the technical barriers associated with setting up programming and cloud environments. Considered how students could use AI for code generation, explanation, debugging, and problem-solving while learning to critically evaluate AI-generated code.
 <br> 
+<br>
 <b>•	Session 3:</b> Began translating the selected technologies into a structured classroom workflow. Developed a progression in which students first establish Java programming fundamentals, followed by responsible AI use and AI-assisted programming, an introduction to cloud computing, and access to Jetstream2 virtual computing environments. Planned student activities involving programming, data analysis, visualization, Jupyter-based work, and introductory machine learning. Also began incorporating professional practices such as documentation, testing, debugging, reproducibility, data management, and evaluation of AI-generated solutions into course assignments.
+<br>
 <br>
 <b>•	Session 4:</b> Refined the instructional pathway and identified specific course modules and assignments for implementation. Examined how Jetstream2 and Science Gateway resources could be introduced incrementally so that students develop programming confidence before transitioning to cloud-based computing. Continued developing student-facing instructions, tutorials, assessment criteria, and responsible AI guidelines. Considered potential challenges related to account creation, authentication, technical support, computing allocations, and student access, and identified strategies for reducing these barriers.
  <br>
+ <br>
 <b>•	Session 5:</b> Developed the AI + Java + Jetstream2 + Science Gateway course pathway. Students begin with computing and Java fundamentals, progress to AI literacy and AI-assisted programming, and then transition to cloud computing and Jetstream2. Later modules incorporate data analysis, visualization, introductory machine learning, and an authentic AI/cloud computing project. Assessment was expanded beyond traditional code submissions to include AI-assisted programming activities, cloud-based projects, reflections, code evaluation, documentation, testing, and reproducibility.
+ <br>
  <br>
 <b>•	Final Implementation:</b> The redesigned course will integrate Jetstream2, Science Gateway resources, and AI-supported programming activities throughout the semester rather than treating them as standalone topics. Students will begin in a familiar local programming environment, develop foundational Java skills, and progressively transition to cloud-based computational environments. The final project will require students to apply programming, AI, cloud computing, data, and problem-solving skills to an authentic computational problem. Implementation will be evaluated through student programming performance, project completion, engagement, confidence with computing, ability to evaluate AI-generated code, and reflections on their experience using cloud and AI resources. Findings from the implementation will be used to refine the course, improve student support materials, and develop a scalable model for incorporating Science Gateway and advanced computing resources into additional courses.
 </ul>
