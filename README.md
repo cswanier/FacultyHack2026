@@ -1,6 +1,6 @@
-<b> FacultyHack@Gateways 2026 Curriculum Project /<b> <br>
+<h1><b> FacultyHack@Gateways 2026 Curriculum Project </b></h1> <br>
 
-<b>Project Overview </b> <br>
+<h2><b>Project Overview </b></h2> <br>
 
 
 This curriculum project focuses on integrating Jetstream2, Artificial Intelligence (AI), and Science Gateway resources into an Introduction to Programming course to give students hands-on experience with modern research computing environments. <br>
