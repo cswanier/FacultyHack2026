@@ -22,17 +22,11 @@ The primary goal is to move students beyond working only on their local computer
 The project will also explore how tools such as Jetstream2 and Science Gateways can be incorporated into assignments and course projects in ways that are accessible to students with different levels of computing experience.  <br>
 
 
-
-
-
 <h2><b> Faculty Information </b></h2> <br>
-
 
 <p>Cheryl Swanier <br>
  Voorhees University <br>
  Science, Technology, Health, and Human Services </p>
-
-
 
 <h2><b>Brief Bio</b></h2>
 
