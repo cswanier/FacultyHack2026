@@ -59,15 +59,14 @@ The course goal is to integrate Science Gateway resources, including Jetstream2 
  
 <p>Jetstream2 is an NSF-supported, user-friendly cloud computing environment that provides interactive virtual machines, data analysis capabilities, and access to AI resources. It is designed specifically to lower barriers for users who are new to advanced computing and is particularly focused on workforce development at small colleges, HBCUs, and minority-serving institutions. </p>
 
-<b>•	Course Use:</b> <br> 
+<b>•	Course Use:</b> 
 
-Students will use Jetstream2 to create cloud-based programming environments, execute and debug JAVA programs, work with datasets, and complete computational projects without requiring powerful personal computers. <br>
+<p>Students will use Jetstream2 to create cloud-based programming environments, execute and debug JAVA programs, work with datasets, and complete computational projects without requiring powerful personal computers. </p>
+
+<p>Students will use Jetstream2 to learn to critically evaluate AI-generated code for accuracy, bias, security, and responsible use. Science Gateway resources will supplement these activities by exposing students to research-oriented computational tools and workflows. Together, these platforms create an accessible pathway for beginning programmers to move from foundational programming concepts to authentic cloud, AI, and computational experiences.</p>
 
 
-Students will use Jetstream2 to learn to critically evaluate AI-generated code for accuracy, bias, security, and responsible use. Science Gateway resources will supplement these activities by exposing students to research-oriented computational tools and workflows. Together, these platforms create an accessible pathway for beginning programmers to move from foundational programming concepts to authentic cloud, AI, and computational experiences.
-
-
-The course will also leverage Jetstream2's institutionally operated LLM inference service as an AI programming assistant for code generation, explanation, debugging, and problem-solving.</ul>
+<p>The course will also leverage Jetstream2's institutionally operated LLM inference service as an AI programming assistant for code generation, explanation, debugging, and problem-solving.</p></ul>
 
 <b>ACCESS</b> https://access-ci.org/ <br>
 <ul>
