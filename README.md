@@ -116,11 +116,11 @@ Explored potential workflows using Jetstream2, ACCESS, Science Gateway resources
 
 •	 SGX3 Blog Post Draft: blog_post.md. </p>
  
-<b>Event Details</b>
+<h2><b>Event Details</b></h2>
 •	Virtual Hackathon: August 3 – 14, 2026
 •	In-Person Conference: Gateways 2026 | September 23–25, 2026 | Washington, D.C.
  
-<b>Event Citation </b>
+<h2><b>Event Citation </b></h2>
 
 
 This project was developed as part of SGX3's 5th Annual FacultyHack@Gateways 2026. FacultyHack is a hands-on program designed to empower educators across disciplines to integrate High-Performance Computing (HPC) and Artificial Intelligence (AI) tools directly into their curricula.
