@@ -78,7 +78,6 @@ Students will use Jetstream2 to create cloud-based programming environments, exe
 <p>Jetstream2 provides an institutionally operated large-language-model inference service that students can use for programming assistance, debugging, brainstorming, and developing LLM-powered applications. The service currently includes models such as Llama 4 and gpt-oss-120b and processes data within the Indiana University environment rather than sending prompts to commercial AI providers.etstream2 </p>
 <b>•	Course Use:</b>
 <p>Students will use the service as an AI programming partner to generate and explain code, troubleshoot errors, compare programming approaches, and critically evaluate AI-generated solutions.</p> </ul>
-<br>
 
 <b>Science Gateways Gateway Resources – ACCESS Ecosystem</b> https://www.tacc.utexas.edu/ 
 <ul><b>•	Description:</b>
