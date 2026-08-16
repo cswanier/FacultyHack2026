@@ -66,7 +66,7 @@ Students will use Jetstream2 to create cloud-based programming environments, exe
 
 <b>ACCESS</b> https://access-ci.org/ <br>
 <ul>
-<b>•	Description:</b> ACCESS provides researchers and educators with access to advanced computing, storage, visualization, and other cyberinfrastructure resources contributed by organizations across the United States.
+<b>•	Description:</b> ACCESS provides researchers and educators with access to advanced computing, storage, visualization, and other cyberinfrastructure resources contributed by organizations across the United States. <br>
 <b>•	Course Use: </b> ACCESS resources can introduce students to nationally available research cyberinfrastructure and provide a pathway for moving course projects beyond local computing environments. <br>
 <b>•	ACCESS. (n.d.).</b> Science Gateways. ACCESS-CI. https://support.access-ci.org/tools/science-gateways </ul> <br>
 
