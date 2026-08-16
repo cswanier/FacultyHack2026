@@ -80,10 +80,10 @@ Students will use Jetstream2 to create cloud-based programming environments, exe
 <p>Students will use the service as an AI programming partner to generate and explain code, troubleshoot errors, compare programming approaches, and critically evaluate AI-generated solutions.</p> </ul>
 <br>
 
-<b>Science Gateways,</b> / Gateway Resources – ACCESS Ecosystem https://www.tacc.utexas.edu/ 
-<ul><b></b>•	Description: </b>
+<b>Science Gateways Gateway Resources – ACCESS Ecosystem</b> https://www.tacc.utexas.edu/ 
+<ul><b>•	Description:</b>
 <p>Science Gateway resources will be used to connect students to accessible, research-oriented computational tools and environments that complement Jetstream2. Jetstream2 itself supports science gateways and provides web-based interfaces and preconfigured virtual machines that simplify access to advanced computing resources.</p>
-<b></b>•	Course Use:</b> 
+<b>•	Course Use:</b> 
 <p>Students will explore selected gateway resources to experience how professional and research communities use cloud computing, data, software, and computational workflows to solve real-world problems.</p></ul>
 
 <h2><b>Implementation Notes</b></h2>
