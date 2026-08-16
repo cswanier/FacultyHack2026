@@ -6,7 +6,7 @@
 This curriculum project focuses on integrating Jetstream2, Artificial Intelligence (AI), and Science Gateway resources into an Introduction to Programming course to give students hands-on experience with modern research computing environments. <br>
 
 
-<b> Course: CMP 224 Intro to Programming </b> <br>
+<h2><b> Course: CMP 224 Intro to Programming </b></h2> <br>
 
 
 
@@ -25,7 +25,7 @@ The project will also explore how tools such as Jetstream2 and Science Gateways 
 
 
 
-<b> Faculty Information </b>
+<h2><b> Faculty Information </b></h2> <br>
 
 
 <p>Cheryl Swanier <br>
@@ -34,7 +34,7 @@ The project will also explore how tools such as Jetstream2 and Science Gateways 
 
 
 
-<b>Brief Bio</b>
+<h2><b>Brief Bio</b></h2>
 
 
 Dr. Cheryl A. Swanier is a computer scientist, educator, researcher, and higher education leader with more than two decades of experience advancing academic excellence, faculty development, and student success. She most recently served as Dean of the School of Science, Technology, Health, and Human Services at Voorhees University, where she also holds the rank of Full Professor of Computer Science.
@@ -58,22 +58,22 @@ As an academic leader, Dr. Swanier is committed to cultivating inclusive learnin
 </a>
 <br> </br> 
 
-<b>Mentorship & Support</b>
+<h2><b>Mentorship & Support</b></h2>
 
 
-Assigned Technical Mentor(s):  
+<b>Assigned Technical Mentor(s):  </b> <br>
 
 <p>Anas AlSobeh <br>
 Utah Valley University <br>
 ana.alsobeh@uvu.edu </p>
  
-<b>Science Gateway Resources & Technology Notes</b>
+<h2><b>Science Gateway Resources & Technology Notes</b> </h2> <br>
 
 
 The course goal is to integrate Science Gateway resources, including Jetstream2 cloud computing infrastructure and AI-enabled tools, into an introductory programming course to provide students with accessible, authentic, and scalable computing experiences that strengthen computational thinking, programming skills, and AI literacy.
 
 
-<b>Tools Used </b> <br>
+<h2><b>Tools Used </b> </h2> <br>
 <b>Jetstream2</b>  https://jetstream-cloud.org/. <br>
 <ul><b>•	Description:</b> <br>
 
