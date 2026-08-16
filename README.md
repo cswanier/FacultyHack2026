@@ -50,7 +50,9 @@ The course goal is to integrate Science Gateway resources, including Jetstream2 
 
 
 <h2><b>Tools Used </b> </h2> <br>
-<b>Jetstream2</b>  https://jetstream-cloud.org/. <br>
+<b>Jetstream2 </b>  https://jetstream-cloud.org/. <br>
+
+
 <ul><b>•	Description:</b> <br>
 
  
