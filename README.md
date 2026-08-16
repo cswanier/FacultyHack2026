@@ -65,20 +65,27 @@ Students will use Jetstream2 to create cloud-based programming environments, exe
 <p>The course will also leverage Jetstream2's institutionally operated LLM inference service as an AI programming assistant for code generation, explanation, debugging, and problem-solving.</p></ul>
 
 <b>ACCESS</b> https://access-ci.org/ <br>
+
 <ul>
-<b>•	Description:</b> ACCESS provides researchers and educators with access to advanced computing, storage, visualization, and other cyberinfrastructure resources contributed by organizations across the United States. <br>
-<b>•	Course Use: </b> ACCESS resources can introduce students to nationally available research cyberinfrastructure and provide a pathway for moving course projects beyond local computing environments. <br>
+<b>•	Description:</b> 
+<p>ACCESS provides researchers and educators with access to advanced computing, storage, visualization, and other cyberinfrastructure resources contributed by organizations across the United States.</p> 
+<b>•	Course Use: </b> 
+<p></p>ACCESS resources can introduce students to nationally available research cyberinfrastructure and provide a pathway for moving course projects beyond local computing environments. </ul></p>
 <b>•	ACCESS. (n.d.).</b> Science Gateways. ACCESS-CI. https://support.access-ci.org/tools/science-gateways </ul> <br>
 
 <b>•	Jetstream2 LLM Inference Service</b> https://support.access-ci.org/tools/science-gateways?utm_source=chatgpt.com 
-<ul><b>•	Description:</b> Jetstream2 provides an institutionally operated large-language-model inference service that students can use for programming assistance, debugging, brainstorming, and developing LLM-powered applications. The service currently includes models such as Llama 4 and gpt-oss-120b and processes data within the Indiana University environment rather than sending prompts to commercial AI providers.etstream2 <br>
+<ul><b>•	Description:</b> 
+ <p>Jetstream2 provides an institutionally operated large-language-model inference service that students can use for programming assistance, debugging, brainstorming, and developing LLM-powered applications. The service currently includes models such as Llama 4 and gpt-oss-120b and processes data within the Indiana University environment rather than sending prompts to commercial AI providers.etstream2 </p>
 <ul>
-<b>•	Course Use:</b> Students will use the service as an AI programming partner to generate and explain code, troubleshoot errors, compare programming approaches, and critically evaluate AI-generated solutions. </ul>
+<b>•	Course Use:</b>
+ <p>Students will use the service as an AI programming partner to generate and explain code, troubleshoot errors, compare programming approaches, and critically evaluate AI-generated solutions.</p> </ul>
 
-<b>Science Gateways,</b> / Gateway Resources – ACCESS Ecosystem https://www.tacc.utexas.edu/ <br>
+<b>Science Gateways,</b> / Gateway Resources – ACCESS Ecosystem https://www.tacc.utexas.edu/ 
 
-•	Description: Science Gateway resources will be used to connect students to accessible, research-oriented computational tools and environments that complement Jetstream2. Jetstream2 itself supports science gateways and provides web-based interfaces and preconfigured virtual machines that simplify access to advanced computing resources.
-•	Course Use: Students will explore selected gateway resources to experience how professional and research communities use cloud computing, data, software, and computational workflows to solve real-world problems.
+<ul><b></b>•	Description: </b>
+ <p>Science Gateway resources will be used to connect students to accessible, research-oriented computational tools and environments that complement Jetstream2. Jetstream2 itself supports science gateways and provides web-based interfaces and preconfigured virtual machines that simplify access to advanced computing resources.</p>
+<b></b>•	Course Use:</b> 
+ <p>Students will explore selected gateway resources to experience how professional and research communities use cloud computing, data, software, and computational workflows to solve real-world problems.</p>
 
 <h2><b>Implementation Notes</b></h2>
 <ul>
