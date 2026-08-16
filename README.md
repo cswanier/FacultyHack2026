@@ -3,7 +3,7 @@
 <h2><b>Project Overview </b></h2> <br>
 
 
-This curriculum project focuses on integrating Jetstream2, Artificial Intelligence (AI), and Science Gateway resources into an Introduction to Programming course to give students hands-on experience with modern research computing environments. <br>
+This curriculum project focuses on integrating <b>Jetstream2, Artificial Intelligence (AI), and Science Gateway</b> resources into an Introduction to Programming course to give students hands-on experience with modern research computing environments. <br>
 
 
 <h2><b> Course: CMP 224 Intro to Programming </b></h2> <br>
