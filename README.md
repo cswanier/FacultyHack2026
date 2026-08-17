@@ -108,7 +108,7 @@ Explored potential workflows using Jetstream2, ACCESS, Science Gateway resources
 </ul>
 <h2><b>Deliverables Checklist</b></h2>
 
-•	 Original Syllabus: [original_syllabus.pdf](https://github.com/cswanier/FacultyHack2026/blob/main/CMP%20224%20VU%20Syllabus%202026.pdf)
+•	 Original Syllabus: <a href="[Syllabus Filename]">[Original_Syllabus]</a>
 
 •	 Revised Syllabus: revised_syllabus.pdf
 
