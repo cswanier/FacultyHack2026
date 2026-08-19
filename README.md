@@ -108,7 +108,7 @@ Explored potential workflows using Jetstream2, ACCESS, Science Gateway resources
 </ul>
 <h2><b>Deliverables Checklist</b></h2>
 
-•	 Original Syllabus: <a href="CMP 224 VU Syllabus 2026.pdf">Original_Syllabus</a>
+•	 Original Syllabus: <a href="CMP 224 VU Syllabus 2026.pdf">[Original_Syllabus]</a>
 
 •	 Revised Syllabus: revised_syllabus.pdf
 
