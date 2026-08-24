@@ -112,9 +112,9 @@ Explored potential workflows using Jetstream2, ACCESS, Science Gateway resources
 
 •	 Revised Syllabus: [Revised Syllabus](./CMP224VUSyllabus2026revised.pdf)
 
-•	 Gateways 2026 Poster: poster_final.pdf
+•	 Gateways 2026 Poster: [Gateways 2026 Poster](./FacultyHack_Gateways26_Poster_Final.pdf)  
 
-•	 SGX3 Blog Post Draft: blog_post.md. </p>
+•	 SGX3 Blog Post Draft: blog_post.md. </p
  
 <h2><b>Event Details</b></h2>
 •	Virtual Hackathon: August 3 – 14, 2026
