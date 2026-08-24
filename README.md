@@ -110,7 +110,7 @@ Explored potential workflows using Jetstream2, ACCESS, Science Gateway resources
 
 •	 Original Syllabus :  [Original Syllabus](./CMP224VUSyllabus2026.pdf)
 
-•	 Revised Syllabus: [Original Syllabus](./CMP224VUSyllabus2026revised.pdf)
+•	 Revised Syllabus: [Revised Syllabus](./CMP224VUSyllabus2026revised.pdf)
 
 •	 Gateways 2026 Poster: poster_final.pdf
 
