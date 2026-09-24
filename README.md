@@ -118,6 +118,7 @@ Explored potential workflows using Jetstream2, ACCESS, Science Gateway resources
  
 <h2><b>Event Details</b></h2>
 •	Virtual Hackathon: August 3 – 14, 2026
+
 •	In-Person Conference: Gateways 2026 | September 23–25, 2026 | Washington, D.C.
  
 <h2><b>Event Citation </b></h2>
